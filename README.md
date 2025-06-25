@@ -1,3 +1,6 @@
+# What?
+SparseObjects is a TensorFlow + Python/C++ implementation of VoxelNet aimed specifically at 3D car detection using the KITTI dataset. It features scripts for data prep, training, testing.
+
 # Dependencies
 - `python3.5+`
 - `TensorFlow` (tested on 1.4.1)
